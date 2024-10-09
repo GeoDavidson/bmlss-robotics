@@ -1,6 +1,6 @@
 # BMLSS Robotics
 
- A website for the BMLSS robotics team. 
+ A WIP website for the BMLSS robotics team. 
 
 ## Notes
 
