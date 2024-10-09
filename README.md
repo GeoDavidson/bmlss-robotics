@@ -1,4 +1,8 @@
-# React + Vite
+# BMLSS Robotics
+
+ A website for the BMLSS robotics team. 
+
+## Notes
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
